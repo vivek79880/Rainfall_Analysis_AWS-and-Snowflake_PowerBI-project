@@ -32,6 +32,9 @@
    n) AVG. Yield by Location
    o) AVG. Yield by Season
    p) AVG. Yield by Crop
+
+
+   more i ll be uploading in this folder..not done yet....
   
 
   
