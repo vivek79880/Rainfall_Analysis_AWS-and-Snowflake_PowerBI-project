@@ -1,40 +1,57 @@
 # Rainfall_Analysis_AWS-and-Snowflake_PowerBI-project
  1. Project Title:
-    Rainfall Analysis with AWS & Snowflake
+    Rainfall Analysis Using AWS, Snowflake, and Power BI
  
  2. Problem Statement / Objective:
-    This Powerbi Dashboard shows the user Rainfall/Temperature/Humidity/Yield Analysis 
-    More specifically user can filter out the particular crops and their prorductivity with particular temperature and with seasons as well, making this report beneficial for the analysis.
+    This Power BI dashboard provides comprehensive insights into rainfall, temperature, humidity, and crop yield analysis.
+    Users can filter data by specific crops, temperature ranges, and seasons, enabling targeted analysis that supports informed agricultural decision-making.
 
  3. Data Sources:
-    AWS S3 bucket - For storing rwa data
-    Kaggle - Major Datasource
+    AWS S3 Bucket: Used to store raw data files.
+    Kaggle: Primary source for the dataset.
  
- 4. Tools & Technologies Used:
+ 5. Tools & Technologies Used:
     AWS S3 BUCKET - For storing raw data files.
-    SNOWFLAKE - For quering , data cleaning, and setting up connection with AWS and working on the raw data.
-    Data was pulled into powerBI via snowflake and further reports were created.
+    SNOWFLAKE - Snowflake: Used for querying, cleaning data, and integrating with AWS S3.
+    Power BI - Connected to Snowflake for data visualization and report creation.
  
  5.Key Metrics & KPIs Tracked:
-   a) AVG. Rainfall by Year 
-   b) AVG. Rainfall by Location
-   c) AVG. Rainfall by Season
-   d) AVG. Rainfall by Crop
-   e) AVG. Temparature by Year 
-   f) AVG. Temperature by Location
-   g) AVG. Temperature by Season
-   h) AVG. Temperature by Crop
-   i) AVG. Humidity by Year 
-   j) AVG. Humidity by Location
-   k) AVG. Humidity by Season
-   l) AVG. Humidity by Crop
-   m) AVG. Yield by Year 
-   n) AVG. Yield by Location
-   o) AVG. Yield by Season
-   p) AVG. Yield by Crop
+   🌧️ Rainfall:
+Average Rainfall by Year
 
+Average Rainfall by Location
 
-   more i ll be uploading in this folder..not done yet....
+Average Rainfall by Season
+
+Average Rainfall by Crop
+
+🌡️ Temperature:
+Average Temperature by Year
+
+Average Temperature by Location
+
+Average Temperature by Season
+
+Average Temperature by Crop
+
+💧 Humidity:
+Average Humidity by Year
+
+Average Humidity by Location
+
+Average Humidity by Season
+
+Average Humidity by Crop
+
+🌾 Yield:
+Average Yield by Year
+
+Average Yield by Location
+
+Average Yield by Season
+
+Average Yield by Crop
+
   
 
   
