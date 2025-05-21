@@ -16,6 +16,8 @@
     Power BI - Connected to Snowflake for data visualization and report creation.
  
  5.Key Metrics & KPIs Tracked:
+   
+   
    🌧️ Rainfall:
 Average Rainfall by Year
 
